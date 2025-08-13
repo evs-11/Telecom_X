@@ -39,4 +39,4 @@ Estos datos sugieren que la insatisfacción con el servicio, el costo o la falta
 ### ✍️ Autor
 #### Creador del proyecto: Elida Schultz
 ---
-Este repositorio corresponde al entrenamiento de Clasificación: Aprendiendo a clasificar datos con Machine Learning de Alura Latam.
+Este repositorio corresponde al entrenamiento de Aprendiendo a hacer ETL (Análisis de Evasión de Clientes) de Alura Latam.
